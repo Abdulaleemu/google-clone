@@ -29,7 +29,7 @@ function Home() {
           />
         </center>
         <div className="search_input">
-          <Search />
+          <Search hideButtons />
         </div>
       </div>
     </div>
